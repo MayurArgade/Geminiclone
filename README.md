@@ -2,6 +2,9 @@
 
 A minimalist, responsive clone of the Gemini AI interface, designed with React.js and CSS. This is a simple front-end-only project focused on UI replication.
 
+## 🚀 Live Demo
+
+👉 [Click here to view the app](https://mayurargade.github.io/Geminiclone/)
 
 *A clean, sleek interface inspired by Gemini AI.*
 
